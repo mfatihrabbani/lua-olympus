@@ -1,0 +1,3 @@
+rid = getRid()
+
+print(rid)

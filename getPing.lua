@@ -1,0 +1,3 @@
+ping = getPing()
+
+print(ping)
